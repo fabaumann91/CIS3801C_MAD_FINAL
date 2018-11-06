@@ -2,11 +2,10 @@
 //Allow Headers 
 header('Access-Control-Allow-Origin: *');
 
-//$servername = "fbfallterm12018lamp.centralus.cloudapp.azure.com:3306";'
 $servername = "localhost:3306";
  
-$username = "fabaumann91";
-$password = "Logitech_1991";
+$username = "your_username";
+$password = "your_password";
 $dbname = "gbparking"; 
 
 // Create connection .
